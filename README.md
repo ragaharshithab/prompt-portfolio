@@ -1,5 +1,5 @@
  🎯 Prompt Writing Portfolio – Ragaharshitha Bandi
-
+ 
  ✨ AI Prompt Writer & Content Strategist
 
 Hi, I’m Ragaharshitha Bandi — a Prompt Writer and AI Content Strategist who specializes in role-based, outcome-driven prompt engineering. This portfolio showcases 9 real-world CRISP-E prompts I’ve written to solve problems across marketing, customer support, and productivity for modern teams.
@@ -33,7 +33,7 @@ E – Example:
 
 ---
 
- 🔹 Prompt 2: Chatbot Reply – Delivery Delay  
+🔹 Prompt 2: Chatbot Reply – Delivery Delay  
 Category: Customer Support / AI Assistant
 
 C – Context:
@@ -117,41 +117,41 @@ E – Example:
 🔹 Prompt 5: Refund Policy Chatbot FAQ  
 Category:** Customer Support / AI Assistant
 
-*C – Context: 
+C – Context: 
 AyurGlow, a skincare brand, wants its chatbot to answer refund policy queries with clarity and warmth.
 
-*R – Role:
+R – Role:
 Act as a customer experience prompt writer for D2C brands.
 
-*I – Instruction:
+I – Instruction:
 Write a refund policy chatbot reply that builds trust and directs the customer to the refund form.
 
-*S – Specification:
+S – Specification:
 - Tone: Calm, friendly  
 - Word limit: 60  
 - Must include: policy highlights, [Refund Form] link, assurance
 
-*P – Performance:
+P – Performance:
 Should reduce refund-related support tickets. Language must feel human, not scripted.
 
-*E – Example:
+E – Example:
 > Need a refund? No problem! If it’s within 7 days and unopened, you’re eligible. Just click here to get started: [Refund Form] 😊
 
 ---
 
-#🔹 Prompt 6: SOP Checklist Generator  
-*Category: Productivity / Internal Docs
+🔹 Prompt 6: SOP Checklist Generator  
+Category: Productivity / Internal Docs
 
-*C – Context: 
+C – Context: 
 An HR team wants AI to auto-generate onboarding checklists tailored to each department.
 
-*R – Role:
+R – Role:
 Act as an HR automation consultant creating AI-driven SOPs.
 
-*I – Instruction:
+I – Instruction:
 Write a prompt that takes a department name and outputs a ready-to-use checklist with two sections.
 
-*S – Specification:
+S – Specification:
 - Format:
   - ✅ Setup Tasks  
   - 💼 Team Tasks  
@@ -159,28 +159,28 @@ Write a prompt that takes a department name and outputs a ready-to-use checklist
 - Tone: Supportive, clear  
 - Output must be task-specific
 
-*P – Performance:  
+P – Performance:  
 Checklist should reduce onboarding confusion. Must be plug-and-play into Notion or Asana.
 
-*E – Example:
+E – Example:
 > ✅ Setup: Email, Slack, HR Forms  
 > 💼 Team: Intro call with manager, product training
 
 ---
 
-#🔹 Prompt 7: Carousel Post Generator – SaaS Education  
-*Category: Marketing & Content
+🔹 Prompt 7: Carousel Post Generator – SaaS Education  
+Category: Marketing & Content
 
-*C – Context:
+C – Context:
 A SaaS company wants to launch an educational carousel post on LinkedIn to promote a new analytics product.
 
-*R – Role:
+R – Role:
 Act as a B2B content creator who designs high-engagement carousels.
 
-*I – Instruction:
+I – Instruction:
 Create a 5-slide LinkedIn carousel that educates users on how the new dashboard helps them save time and make better decisions.
 
-*S – Specification:
+S – Specification:
 - Slide structure:
   - Hook  
   - Pain  
@@ -190,10 +190,10 @@ Create a 5-slide LinkedIn carousel that educates users on how the new dashboard 
 - Max 40 words/slide  
 - Tone: Clean, professional, engaging
 
-*P – Performance:
+P – Performance:
 Should be swipeable, visual, and lead to higher demo click-throughs.
 
-*E – Example: 
+E – Example: 
 > Slide 1: “Still wasting hours in Excel?”  
 > Slide 5 CTA: “See your metrics like a founder. Try MetricX.”
 
@@ -253,6 +253,8 @@ E – Example:
 
 ---
 
- 📧 Contact  
- Email: ragaharshithabandi@gmail.com 
+
+📧 Contact  
+Email: ragaharshithabandi@gmail.com 
+
 Linkedin: https://www.linkedin.com/in/ragaharshitha-b-6985911b3/?trk=opento_sprofile_goalscard
