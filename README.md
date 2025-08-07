@@ -252,6 +252,8 @@ Report must be copy-paste ready for email or Slack. Output should reflect clarit
 > 📈 Sales closed: ₹2.5L | ✅ Launched new campaign | 📌 Issue: CRM lag — fix pending
 
 ---
+**📎 Want to see how prompts evolve from vague → powerful?**
+👉 [Check Before/After Case Studies](./before-after.md)
 
 ## 📧 Contact
 
