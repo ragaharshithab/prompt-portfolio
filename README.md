@@ -253,7 +253,7 @@ Report must be copy-paste ready for email or Slack. Output should reflect clarit
 
 ---
 **📎 Want to see how prompts evolve from vague → powerful?**
-👉 [Check Before/After Case Studies](./before-after.md)
+👉 [Check Before/After Case Studies](https://github.com/ragaharshithab/before-after.md))
 
 ## 📧 Contact
 
